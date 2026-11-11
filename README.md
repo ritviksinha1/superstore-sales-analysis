@@ -75,7 +75,7 @@ superstore-sales-analysis/
 **Python analysis**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ritviksinha1/superstore-sales-analysis>
 cd superstore-sales-analysis
 pip install -r requirements.txt
 jupyter notebook superstore_sales_analysis.ipynb
@@ -101,4 +101,4 @@ The SQL file answers the same questions as the notebook and uses `GROUP BY` / `H
 
 ## Author
 
-**[Your Name]**: [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com)
+**[Ritvik Sinha]**: [LinkedIn](https://www.linkedin.com/in/sinharitvik) · [Email](mailto:ritviksinha101@gmail.com)
